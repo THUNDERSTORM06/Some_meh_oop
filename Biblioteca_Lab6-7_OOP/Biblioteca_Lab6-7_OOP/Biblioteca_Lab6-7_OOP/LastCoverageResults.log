@@ -1,0 +1,21 @@
+[2022-04-08 13:21:50] [info] Start Program:
+Path:"C:\Users\aless\source\repos\Biblioteca_Lab6-7_OOP\x64\Debug\Biblioteca_Lab6-7_OOP.exe"
+Arguments:
+Working directory: "C:\Users\aless\source\repos\Biblioteca_Lab6-7_OOP\Biblioteca_Lab6-7_OOP\"
+Modules: Selected: C:\Users\aless\source\repos\Biblioteca_Lab6-7_OOP\x64\Debug\Biblioteca_Lab6-7_OOP.exe Excluded: 
+Sources: Selected: C:\Users\aless\source\repos\Biblioteca_Lab6-7_OOP\Biblioteca_Lab6-7_OOP Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\aless\AppData\Local\Temp\tnvsdywd.hhc 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2022-04-08 13:21:50] [info] Module: C:\Users\aless\source\repos\Biblioteca_Lab6-7_OOP\x64\Debug\Biblioteca_Lab6-7_OOP.exe is selected because it matches selected pattern: C:\Users\aless\source\repos\Biblioteca_Lab6-7_OOP\x64\Debug\Biblioteca_Lab6-7_OOP.exe
+[2022-04-08 13:21:51] [info] ----------------------------------------------------
+[2022-04-08 13:21:51] [info] Coverage binary generated in file: C:\Users\aless\AppData\Local\Temp\tnvsdywd.hhc
+[2022-04-08 13:21:51] [info] ----------------------------------------------------

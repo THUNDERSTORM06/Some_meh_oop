@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.35.32215.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/getting a job/downloads/biblioteca_lab6-7_oop/biblioteca_lab6-7_oop/biblioteca_lab6-7_oop/validator.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "45692b39d8fd511c66a15b20aa10828a5f65419581bdc8f067d9c1b07fd8653c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/getting a job/downloads/biblioteca_lab6-7_oop/biblioteca_lab6-7_oop/biblioteca_lab6-7_oop/validator.h"
+          },
+          "hashes": {
+            "sha-256": "30f7d1e07985ece737eade879cd217b0412281df7db5bc35b1955cd1c361afd6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/getting a job/downloads/biblioteca_lab6-7_oop/biblioteca_lab6-7_oop/biblioteca_lab6-7_oop/carte.h"
+          },
+          "hashes": {
+            "sha-256": "10906dd12f5e2f9524f1d61ea7eee5c1cc06596d333a20ccc29572b75df1f319"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Biblioteca_Lab6-7_OOP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  console.cpp
+  Biblioteca_Lab6-7_OOP.vcxproj -> C:\Users\GETTING A JOB\Downloads\Biblioteca_Lab6-7_OOP\Biblioteca_Lab6-7_OOP\x64\Debug\Lab-6-7.exe
+C:\Users\GETTING A JOB\Downloads\Biblioteca_Lab6-7_OOP\Biblioteca_Lab6-7_OOP\Biblioteca_Lab6-7_OOP\carte_repo.cpp(22): warning C26451: Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).

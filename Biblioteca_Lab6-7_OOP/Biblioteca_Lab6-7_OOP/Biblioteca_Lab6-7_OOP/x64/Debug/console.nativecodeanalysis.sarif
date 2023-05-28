@@ -1,0 +1,75 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.35.32215.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/getting a job/downloads/biblioteca_lab6-7_oop/biblioteca_lab6-7_oop/biblioteca_lab6-7_oop/console.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "68166c8ea21fd3f96092ef67ff7b5f918a93338eb4890ced9959a026afdf3cd0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/getting a job/downloads/biblioteca_lab6-7_oop/biblioteca_lab6-7_oop/biblioteca_lab6-7_oop/console.h"
+          },
+          "hashes": {
+            "sha-256": "64c2fcef5629a63ac1a9d6fcf7aef7dcb2f427a32ec20baf1748978c8e323f25"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/getting a job/downloads/biblioteca_lab6-7_oop/biblioteca_lab6-7_oop/biblioteca_lab6-7_oop/biblioteca.h"
+          },
+          "hashes": {
+            "sha-256": "ab43aa761e4e7fb4a1670439095e2b2840451bf79506255c233841b5751654e8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/getting a job/downloads/biblioteca_lab6-7_oop/biblioteca_lab6-7_oop/biblioteca_lab6-7_oop/carte.h"
+          },
+          "hashes": {
+            "sha-256": "10906dd12f5e2f9524f1d61ea7eee5c1cc06596d333a20ccc29572b75df1f319"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/getting a job/downloads/biblioteca_lab6-7_oop/biblioteca_lab6-7_oop/biblioteca_lab6-7_oop/carte_repo.h"
+          },
+          "hashes": {
+            "sha-256": "96f1ff1b58c830e3bf35344dfc7342809541e1889c252937cffeb6e7d72c1ef1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/getting a job/downloads/biblioteca_lab6-7_oop/biblioteca_lab6-7_oop/biblioteca_lab6-7_oop/validator.h"
+          },
+          "hashes": {
+            "sha-256": "30f7d1e07985ece737eade879cd217b0412281df7db5bc35b1955cd1c361afd6"
+          }
+        }
+      ]
+    }
+  ]
+}
